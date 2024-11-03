@@ -1,9 +1,7 @@
 # tds_project_1
 A Project for TDS
 
-An explanation of how you scraped the data
-The most interesting and surprising fact you found after analyzing the the data
-An actionable recommendation for developers based on your analysis
+Note: Find the codes in branch: `working`
 
 # Explanation
 
